@@ -1,4 +1,4 @@
-# .nvim
+# .nvim 0.2.0
 Vim to Neovim migration,
 new neovim dotfile configuration ^^
 
